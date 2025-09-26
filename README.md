@@ -2,3 +2,6 @@
 This is my local project .
 
 i will love to work eith git 
+ 
+I have changed something after setup
+
